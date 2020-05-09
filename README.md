@@ -1,2 +1,4 @@
 # rooting-frontend
-r
+
+ - flutter (moblie front-end)
+ - react (web front-end)
